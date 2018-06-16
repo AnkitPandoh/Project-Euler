@@ -1,2 +1,2 @@
 # Project-Euler
-Source codes for Project Euler Problems
+Solution to Project Euler Problems
